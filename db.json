@@ -1,0 +1,104 @@
+{
+    "posts": [
+
+      { "id": 1,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg"
+       
+      },
+      { "id": 2,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg",
+        "status" :"nego"
+
+      },
+      { "id": 3,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg"
+      
+
+      },
+      { "id": 4,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg",
+        "status" :"nego",
+        "recomend":"true"
+      },
+      { "id": 5,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg",
+        "status" :"new",
+        "recomend":"true"
+      },
+      { "id": 6,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg",
+        "status" :""
+      },
+      { "id": 7,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg",
+        "status" :"new"
+      },
+      { "id": 8,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg",
+        "status" :"ready"
+      },
+      { "id": 9,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg",
+        "status" :""
+      },
+      { "id": 10,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg",
+        "status" :"ready",
+        "recomend":"true"
+      }
+      
+    ],
+    "recomend": [
+      { "id": 1,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg"
+      },
+      { "id": 2,
+        "name": "Suxuki",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg"
+       
+
+      },
+      { "id": 3,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg"
+
+      },
+      { "id": 4,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg"
+       
+      },
+      { "id": 5,
+        "name": "Ramen",
+        "author": "typicode",
+        "picture":"https://static.vecteezy.com/system/resources/previews/004/532/073/original/ramen-noodle-egg-and-meat-with-chopstick-cartoon-icon-illustration-vector.jpg"
+       
+      }
+    ],
+    "profile": { "name": "typicode" }
+  }
